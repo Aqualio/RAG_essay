@@ -1,0 +1,11 @@
+streamlit
+crewai
+langchain
+langchain-community
+langchain-openai
+chromadb
+faiss-cpu
+sentence-transformers
+transformers
+torch
+PyPDF2
