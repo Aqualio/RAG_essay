@@ -46,7 +46,7 @@ Generator Agent (CrewAI) → Answer with Citations
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **UI**: Streamlit  
 - **Agents**: CrewAI  
