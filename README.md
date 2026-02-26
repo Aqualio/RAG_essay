@@ -104,8 +104,8 @@ Inside load_local_llm():
 model="microsoft/phi-2"
 ```
 You can swap for:
- - TinyLlama/TinyLlama-1.1B-Chat-v1.0 (faster)
- - mistralai/Mistral-7B-Instruct-v0.2 (better quality, needs GPU)
+ - `TinyLlama/TinyLlama-1.1B-Chat-v1.0` (faster)
+ - `mistralai/Mistral-7B-Instruct-v0.2` (better quality, needs GPU)
 
 ### Use GPU
 
